@@ -8,13 +8,26 @@ Este é um aplicativo Android simples que permite aos usuários pesquisar inform
 - Armazenamento local de consultas bem-sucedidas no SQLite.
 - Tratamento de erros para CEPs inválidos ou inexistentes.
 
-## Capturas de Tela
+## APIs Utilizadas
 
-[Adicione capturas de tela aqui, se desejar]
+1. [ViaCEP](https://viacep.com.br/)
+2. [Apicep](https://apicep.com/api-de-consulta/)
+3. [AwesomeAPI](https://docs.awesomeapi.com.br/api-cep)
+
+## Experiência com Java e Android
+
+Esta foi a minha primeira experiência programando em Java com Android. Algumas observações sobre a experiência:
+
+- Aprendizado do ciclo de vida das atividades e fragmentos no Android.
+- Utilização de bibliotecas como Retrofit para facilitar a comunicação com APIs.
+- Integração com o sistema de armazenamento local usando SQLite.
+
+## Captura de Vídeo
+https://github.com/AIemao/cepApi/assets/84292058/cac031e8-301a-41f3-bc98-36dcfeae267f
 
 ## Pré-requisitos
 
-- Dispositivo ou emulador Android com API Level XX ou superior.
+- Dispositivo ou emulador Android com API.
 - Conexão com a internet.
 
 ## Configuração do Projeto
